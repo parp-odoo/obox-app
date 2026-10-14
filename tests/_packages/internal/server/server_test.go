@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"epos-proxy/internal/printer"
-	"epos-proxy/internal/testutil"
+	"epos-proxy/tests/testutil"
 )
 
 func TestServer_Lifecycle(t *testing.T) {

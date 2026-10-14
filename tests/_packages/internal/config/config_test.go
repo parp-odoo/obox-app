@@ -10,7 +10,7 @@ import (
 	"sync"
 	"testing"
 
-	"epos-proxy/internal/testutil"
+	"epos-proxy/tests/testutil"
 )
 
 func TestNewManager(t *testing.T) {

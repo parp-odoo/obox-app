@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"epos-proxy/internal/testutil"
+	"epos-proxy/tests/testutil"
 )
 
 // cidrRe matches a valid CIDR notation, e.g. "192.168.1.0/24".

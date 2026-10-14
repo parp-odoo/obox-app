@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"epos-proxy/internal/testutil"
+	"epos-proxy/tests/testutil"
 )
 
 func TestZipLogs_Success(t *testing.T) {

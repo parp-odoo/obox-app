@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"epos-proxy/internal/config"
-	"epos-proxy/internal/testutil"
+	"epos-proxy/tests/testutil"
 )
 
 func TestValidateIPAddress(t *testing.T) {

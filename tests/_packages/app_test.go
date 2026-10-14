@@ -12,8 +12,8 @@ import (
 	"epos-proxy/internal/logger"
 	"epos-proxy/internal/printer"
 	"epos-proxy/internal/server"
-	"epos-proxy/internal/testutil"
 	"epos-proxy/internal/util"
+	"epos-proxy/tests/testutil"
 
 	wailsruntime "github.com/wailsapp/wails/v2/pkg/runtime"
 )

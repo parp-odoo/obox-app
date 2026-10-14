@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"epos-proxy/internal/testutil"
+	"epos-proxy/tests/testutil"
 )
 
 func TestEncodePrinterID(t *testing.T) {

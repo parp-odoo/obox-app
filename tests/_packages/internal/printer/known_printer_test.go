@@ -3,7 +3,7 @@ package printer
 import (
 	"testing"
 
-	"epos-proxy/internal/testutil"
+	"epos-proxy/tests/testutil"
 )
 
 func TestGetPrinterType(t *testing.T) {

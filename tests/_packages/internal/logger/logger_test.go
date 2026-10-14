@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"epos-proxy/internal/testutil"
+	"epos-proxy/tests/testutil"
 
 	"github.com/sirupsen/logrus"
 )
